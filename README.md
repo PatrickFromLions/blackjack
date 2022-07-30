@@ -1,5 +1,5 @@
 # blackjack
-Php Black 
+
 
 This is a working php version of the game black jack.
 The version is rather sinple but nice to play.
